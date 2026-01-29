@@ -1,0 +1,29 @@
+[
+  {
+    "address": "0xdA31bc2B08F22AE24aeD5F6EB1E71E96867BA196",
+    "chain_id": "eip155:1",
+    "tags": {
+      "contract_name": "stETH/USD PriceFeed",
+      "owner_project": "chainlink",
+      "usage_category": "oracle"
+    }
+  },
+  {
+    "address": "0x716BB759A5f6faCdfF91F0AfB613133d510e1573",
+    "chain_id": "eip155:1",
+    "tags": {
+      "contract_name": "stETH/ETH PriceFeed",
+      "owner_project": "chainlink",
+      "usage_category": "oracle"
+    }
+  },
+  {
+    "address": "0x71c8D42d35eD9276543FCa95d80Ae0858553Bf44",
+    "chain_id": "eip155:1",
+    "tags": {
+      "contract_name": "ALPHA/ETH PriceFeed",
+      "owner_project": "chainlink",
+      "usage_category": "oracle"
+    }
+  }
+]
